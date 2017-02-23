@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/a952c15295761df92a35774fa3847a5b.git:sphere.groovy": [
+      "https://gist.github.com/a952c15295761df92a35774fa3847a5b.git",
+      "sphere.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.6",
     "skinBranch": "0.20.5",
